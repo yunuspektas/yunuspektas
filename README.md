@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @yunuspektas
 - 👀 I’m interested in Backend Development with Spring Boot
-- 🌱 I’m currently learning Spring Framework 
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me : yunuspektas@protonmail.com
 
 <!---
